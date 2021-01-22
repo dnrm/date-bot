@@ -1,9 +1,9 @@
-#🤖 Date Bot
+# 🤖 Date Bot
 
 Discord bot to tell you the date and time.
 
 ## Commands:
-```!date``` Shows the date
+```!date```  Shows the date
 
 ## How to deploy
 
